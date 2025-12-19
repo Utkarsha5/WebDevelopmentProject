@@ -718,7 +718,7 @@ footer {
     display: inline-block;
     animation: blink 0.7s infinite;
     font-weight: bold;
-    color: #ec0ba9;
+    color: #2980b9;
 }
 @keyframes blink {
     0%, 100% { opacity: 1; }
@@ -735,7 +735,7 @@ footer {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: #ec0ba9;
+  background-color: #2980b9;
   color: white;
   cursor: pointer;
   padding: 15px;
