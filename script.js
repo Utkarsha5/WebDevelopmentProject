@@ -44,7 +44,8 @@ window.onscroll = function() {
         }
     }
 };
-
-function topFunction() {
-    window.scrollTo({top: 0, behavior: 'smooth'});
+if(mybutton) {
+    mybutton.addEventListener("click", function() {
+        window.scrollTo({top: 0, behavior: 'smooth'});
+    });
 }
