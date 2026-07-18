@@ -4,8 +4,6 @@ A responsive portfolio website built with vanilla HTML, CSS, and JavaScript — 
 
 🔗 **Live Demo:** [utkarsha5.github.io/WebDevelopmentProject](https://utkarsha5.github.io/WebDevelopmentProject)
 
-![Portfolio Screenshot](./Image_1.png)
-
 ## Features
 
 - **Typewriter Animation** — Rotating text effect in the hero section using vanilla JS
